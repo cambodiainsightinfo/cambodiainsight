@@ -4,7 +4,7 @@ pubDatetime: 2025-07-29
 modDatetime: 2025-07-29
 title: How Thailand Moving and How to See What Most Never Will
 ogImage: /hun-manet-our-prime-minister.jpg
-slug: /how-thailand-moving-how-to-see-what-the-most-never-will
+slug: how-thailand-moving-and-how-to-see-what-most-never-will
 featured: true
 draft: false
 tags:
@@ -125,5 +125,7 @@ but awakens what’s been right here all along.
 You.
 
 And the way you now see.
+
+[Source: Lukilian Severus](https://www.facebook.com/share/p/16vQbUVChT/)
 
 ![](/hun-manet-our-prime-minister.jpg)
