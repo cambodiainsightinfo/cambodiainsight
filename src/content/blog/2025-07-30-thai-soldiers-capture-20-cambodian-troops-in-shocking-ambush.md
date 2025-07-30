@@ -9,11 +9,9 @@ featured: true
 draft: false
 tags:
   - world-news
-description: Preah Vihear Province- Just hours after a ceasefire agreement was
+description: "Preah Vihear Province- Just hours after a ceasefire agreement was
   approved, Thai soldiers violated the deal and launched a violent ambush on
-  Cambodian troops, capturing 20 soldiers and reportedly killing several. The
-  incident occurred at approximately 5:17 AM on July 29, 2025, in Cambodia
-  Territory.
+  Cambodian troops, capturing 20 soldiers and reportedly killing several. "
 category:
   - world-news
 ---
