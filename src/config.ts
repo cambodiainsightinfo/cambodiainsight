@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://cambodiainsight.pages.dev/", // replace this with your deployed domain
+  website: "https://cambodiainsight.com/", // replace this with your deployed domain
   author: "Cambodia Insight",
   desc: "Discover Cambodia through reliable news and insightful blogs. Cambodia Insight brings you updates and perspectives on the nation’s evolving landscape.",
   title: "Cambodia Insight",
