@@ -3,7 +3,7 @@ author: Cambodia Insight
 pubDatetime: 2025-07-30
 modDatetime: 2025-07-30
 title: Thai Soldiers Capture 20 Cambodian Troops in Shocking Ambush
-ogImage: /thai-capture-cambodia-troops2.jpg
+ogImage: /thai-soliders-capture-cambodia-troops.jpeg
 slug: thai-soliders-capture-20-cambodia-troops
 featured: true
 draft: false
@@ -12,14 +12,16 @@ tags:
 description: Preah Vihear Province- Just hours after a ceasefire agreement was
   approved, Thai soldiers violated the deal and launched a violent ambush on
   Cambodian troops, capturing 20 soldiers and reportedly killing several. The
-  incident occurred at approximately 5:17 AM on July 29, 2025, in the Sam Tae
-  area of Thailand’s Si Sa Ket province.
+  incident occurred at approximately 5:17 AM on July 29, 2025, in Cambodia
+  Territory.
 category:
   - world-news
 ---
 # **Thai Soldiers Capture 20 Cambodian Troops in Shocking Ambush**
 
-**Preah Vihear Provinc**e- Just hours after a ceasefire agreement was approved, Thai soldiers violated the deal and launched a violent ambush on Cambodian troops, capturing 20 soldiers and reportedly killing several. The incident occurred at approximately 5:17 AM on July 29, 2025, in the Sam Tae area of Thailand’s Si Sa Ket province.
+**Preah Vihear Provinc**e- Just hours after a ceasefire agreement was approved, Thai soldiers violated the deal and launched a violent ambush on Cambodian troops, capturing 20 soldiers and reportedly killing several. The incident occurred at approximately 5:17 AM on July 29, 2025, in Cambodia Territory.
+
+![](/image.jpeg)
 
 According to initial reports, the Cambodian soldiers had gathered peacefully near the border area, following the ceasefire terms agreed by both nations. **Cambodian military commander Chan Sopheaktra** stated that the soldiers were even posing for a photo with Thai troops as a symbolic gesture of peace. However, in a shocking turn of events, Thai forces allegedly opened fire and moved in with tanks and 15–20 armed soldiers to attack the Cambodian side.
 
@@ -37,10 +39,10 @@ This incident marks a serious escalation in the already tense border situation b
 
 ![](/thai-capture-cambodia-troops1.jpg)
 
-![](/thai-capture-cambodia-troops2.jpg)
-
 ![](/thai-capture-cambodia-troops3.jpg)
 
 ![](/thai-capture-cambodia-troops4.jpg)
 
-![](/image.jpeg)
+![](/thai-capture-cambodia-troops2.jpg)
+
+![](/thai-soliders-capture-cambodia-troops.jpeg)
