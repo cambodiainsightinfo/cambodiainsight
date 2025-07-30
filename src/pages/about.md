@@ -1,36 +1,13 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: About
 ---
+# About Cambodia Insight
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Cambodia Insight is your trusted source for timely news, thoughtful blogs, and in-depth analysis focused on Cambodia’s dynamic landscape. From politics and business to culture and everyday life, we bring you the stories that matter.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+> Our mission is to inform, engage, and empower readers with accurate reporting and diverse perspectives from across the country. Whether you're a local reader, part of the diaspora, or a global observer, _Cambodia Insight_ offers a window into the heart of Cambodia.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+Stay updated with daily headlines, featured articles, and community voices — all curated to spark meaningful conversation and promote understanding.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+![coding dev illustration](https://raw.githubusercontent.com/mekongglobal/astro-blog/main/public/assets/dev.svg)
