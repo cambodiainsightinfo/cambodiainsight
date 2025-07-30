@@ -1,125 +1,51 @@
 ---
-author: Simon Smale
-pubDatetime: 2024-01-08T18:16:00.000Z
-modDatetime:
-title: How to add a new Social Icon to AstroPaper
+author: Cambodia Insight
+pubDatetime: 2025-07-29
+modDatetime: 2025-07-29
+title: Dear people of Thailand
+ogImage: /515436250_122095496372965063_6109094154921534563_n.jpg
+slug: dear-people-of-thailand
 featured: false
 draft: false
 tags:
-  - FAQ
+  - world-news
 description: How to add a new social icon to AstroPaper
+category:
+  - world-news
 ---
 
-Hot new platform? Niche corner of the internet? Or one specific to your area? This post will guide you through how to add a new social icon to the theme.
+# Dear people of Thailand,
 
-## Table of contents
+To the millions suffering under failed leadership and a deepening economic crisis — it is time to stand for justice and fight for the future of your next generation.
 
-## Merging back to the theme
+You know better than anyone that your leaders are power-hungry gamblers, running from your nation’s real problems instead of solving them.
 
-The maintainer of the theme [Sat Naing](https://github.com/satnaing) has said that he intends to only
+Right now, your soldiers should be rescuing Thai families from devastating floods — not being pushed to kill innocent people and invade your neighbors.
 
-> keep the project supporting only a specific set of popular social icons.
+Meanwhile, the economy is falling apart. Thailand’s tourism — the backbone of your economy — is collapsing.
 
-So there is a chance that your icon will not be in the repo, but fear not, it is very easy to add your own!
+**From January 1 to July 5, 2025,** Thailand welcomed 16.8 million international tourists, a **5%** decrease compared to last year.
 
-## Getting things to match
+Visitors from nearby markets — which make up **67.1%** of total arrivals — have dropped by **12.2%**.
 
-The icon set used by the theme come from [Tabler](https://tabler.io/icons) and there are a quite a few brands on there.
+Most alarming is the sharp decline in Chinese tourists — a 24.81% decrease compared to last year. Before the pandemic in 2019, China brought 11.1 million visitors (28% of all tourists). Today, Chinese tourists make up only 13.58% of arrivals.
 
-## Adding your icon, by example
+If this trend continues, Thailand will see just 4–5 million Chinese visitors in 2025 — the lowest in 12 years (excluding Covid).
 
-For this guide we are going to use the StackOverflow icon as our example.
+This isn’t just about numbers. It’s about survival:
 
-### Find the icon
+Chinese tourists spend an average of 42,428 baht per trip and stay 7.36 days, while Malaysian tourists (who have now overtaken China as the top source market) spend only 21,450 baht and stay just 4.17 days.
 
-> In this case, we are going to use the `StackOverflow` as an example.
+Even though long-haul markets like the US, UK, and Australia are growing, they only make up 28% of arrivals, which cannot fully offset the loss of high-spending Chinese travelers.
 
-Searching on Tabler for 'StackOverflow' we get a single icon <https://tabler.io/icons/icon/brand-stackoverflow>, we are going to need the svg code, so save it for later.
+This is a national crisis. Tourism revenues are plummeting, tariffs are rising, and your leaders have no plan.
 
-```html
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  class="icon icon-tabler icon-tabler-brand-stackoverflow"
-  width="24"
-  height="24"
-  viewBox="0 0 24 24"
-  stroke-width="2"
-  stroke="currentColor"
-  fill="none"
-  stroke-linecap="round"
-  stroke-linejoin="round"
->
-  <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-  <path d="M4 17v1a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-1" />
-  <path d="M8 16h8" />
-  <path d="M8.322 12.582l7.956 .836" />
-  <path d="M8.787 9.168l7.826 1.664" />
-  <path d="M10.096 5.764l7.608 2.472" />
-</svg>
-```
+Thailand war against Cambodia is not the solution, but it add up more problems to your nation. It needs real solutions — to rebuild its economy, restore safety, and bring back the tourists who once powered your nation.
 
-### Clean up
+It is time to rise.  
+To demand an end to this senseless conflict.  
+To tell your leaders to fix your nation instead of destroying others.
 
-We need to do some tidy up on what the theme provides us.
+Your voice matters, Thai friends. History is written by those who dare to speak.
 
-1. remove all classes other than `icon-tabler`
-2. remove width & height
-3. remove the viewBox
-4. remove the stroke-width
-5. remove the stroke
-6. remove the fill
-
-This should leave you with the following
-
-```html
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  class="icon-tabler
-  stroke-linecap="round" stroke-linejoin="round"
->
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M4 17v1a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-1" />
-  <path d="M8 16h8" />
-  <path d="M8.322 12.582l7.956 .836" />
-  <path d="M8.787 9.168l7.826 1.664" />
-  <path d="M10.096 5.764l7.608 2.472" />
-</svg>
-```
-
-Now we can add the clean svg code to the `src/assets/socialIcons.ts` file in `SocialIcons`.
-
-```typescript
-const socialIcons = {
-  /* others */
-  StackOverflow: `<svg
-       xmlns="http://www.w3.org/2000/svg"
-       class="icon-tabler
-       stroke-linecap="round" stroke-linejoin="round"
-     >
-       <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-       <path d="M4 17v1a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-1" />
-       <path d="M8 16h8" />
-       <path d="M8.322 12.582l7.956 .836" />
-       <path d="M8.787 9.168l7.826 1.664" />
-       <path d="M10.096 5.764l7.608 2.472" />
-     </svg>`,
-};
-```
-
-Finally we can configure it for our blog in `src/config.ts` under `SOCIALS`. Setting `active: true` to add it to the site.
-
-```typescript
-export const SOCIALS: SocialObjects = [
-  /* others */
-  {
-    name: "StackOverflow",
-    href: "https://stackoverflow.com/search?q=astropaper",
-    linkTitle: `See what questions there are about ${SITE.title} on StackOverflow`,
-    active: true,
-  },
-];
-```
-
-> Ensure that `href` and `linkTitle` are updated for the corresponding link and label.
-
-Full code for the above steps can be found in [this pull request](https://github.com/satnaing/astro-paper/pull/216/files)
+![](/515436250_122095496372965063_6109094154921534563_n.jpg)

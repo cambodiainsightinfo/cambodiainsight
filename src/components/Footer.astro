@@ -1,7 +1,4 @@
 ---
-import Hr from "./Hr.astro";
-import Socials from "./Socials.astro";
-
 const currentYear = new Date().getFullYear();
 
 export interface Props {
@@ -11,14 +8,149 @@ export interface Props {
 const { noMarginTop = false } = Astro.props;
 ---
 
-<footer class={`${noMarginTop ? "" : "mt-auto"}`}>
-  <Hr noPadding />
-  <div class="footer-wrapper">
-    <Socials centered />
-    <div class="copyright-wrapper">
-      <span>Copyright &#169; {currentYear}</span>
-      <span class="separator">&nbsp;|&nbsp;</span>
-      <span>All rights reserved.</span>
+<footer
+  class={`bg-black px-6 py-12 text-white ${noMarginTop ? "" : "mt-auto"}`}
+>
+  <div class="lg:grid-cols-3 mx-auto mb-12 grid max-w-7xl gap-8 sm:grid-cols-3">
+    {/* Brand Section */}
+    <div class="lg:col-span-1">
+      <h2 class="mb-4 text-4xl font-bold">Cambodia Insight</h2>
+      <p class="mb-8 text-sm leading-relaxed text-gray-400">
+        Stay updated with the latest news, stories, and insights from around the
+        globe.
+      </p>
+
+      {/* Social Media as */}
+      <div class="grid grid-cols-2 gap-3">
+        <a
+          href="#"
+          class="flex items-center justify-between rounded border border-gray-800 bg-gray-900 px-4 py-3 transition-colors hover:bg-gray-800"
+        >
+          <div class="flex items-center gap-3">
+            FB
+            <span class="text-sm">Facebook</span>
+          </div>
+        </a>
+
+        <a
+          href="#"
+          class="flex items-center justify-between rounded border border-gray-800 bg-gray-900 px-4 py-3 transition-colors hover:bg-gray-800"
+        >
+          <div class="flex items-center gap-3">
+            X
+            <span class="text-sm">Twitter</span>
+          </div>
+        </a>
+
+        <a
+          href="#"
+          class="flex items-center justify-between rounded border border-gray-800 bg-gray-900 px-4 py-3 transition-colors hover:bg-gray-800"
+        >
+          <div class="flex items-center gap-3">
+            Youtube
+            <span class="text-sm">YouTube</span>
+          </div>
+        </a>
+
+        <a
+          href="#"
+          class="flex items-center justify-between rounded border border-gray-800 bg-gray-900 px-4 py-3 transition-colors hover:bg-gray-800"
+        >
+          <div class="flex items-center gap-3">
+            IG
+            <span class="text-sm">Instagram</span>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    {/* Pages Section */}
+    <div>
+      <h3
+        class="mb-6 text-sm font-semibold uppercase tracking-wider text-white"
+      >
+        Quick Links
+      </h3>
+      <div class="space-y-4">
+        <a
+          href="/about"
+          class="block text-sm text-gray-400 transition-colors hover:text-white"
+        >
+          About us
+        </a>
+        <a
+          href="/news"
+          class="block text-sm text-gray-400 transition-colors hover:text-white"
+        >
+          News
+        </a>
+        <a
+          href="#"
+          class="block text-sm text-gray-400 transition-colors hover:text-white"
+        >
+          Contact us
+        </a>
+      </div>
+    </div>
+
+    {/* Categories Section */}
+    <div>
+      <h3
+        class="mb-6 text-sm font-semibold uppercase tracking-wider text-white"
+      >
+        CATEGORIES
+      </h3>
+      <div class="space-y-4">
+        <a
+          href="/tags/health"
+          class="block text-sm text-gray-400 transition-colors hover:text-white"
+        >
+          Health
+        </a>
+        <a
+          href="/tags/culture"
+          class="block text-sm text-gray-400 transition-colors hover:text-white"
+        >
+          Culture
+        </a>
+        <a
+          href="/tags/sports"
+          class="block text-sm text-gray-400 transition-colors hover:text-white"
+        >
+          Sports
+        </a>
+        <a
+          href="/tags/world-news"
+          class="block text-sm text-gray-400 transition-colors hover:text-white"
+        >
+          World News
+        </a>
+        <a
+          href="/tags/business"
+          class="block text-sm text-gray-400 transition-colors hover:text-white"
+        >
+          Business
+        </a>
+        <a
+          href="/tags/technology"
+          class="block text-sm text-gray-400 transition-colors hover:text-white"
+        >
+          Technology
+        </a>
+      </div>
+    </div>
+  </div>
+
+  {/* Bottom Section */}
+  <div class="border-t border-gray-800 pt-8">
+    <div
+      class="md:flex-row flex flex-col items-center justify-between text-sm text-gray-400"
+    >
+      <p>© {currentYear} Cambodia Insight.</p>
+      <p>
+        Powered by{" "}
+        <span class="text-white hover:underline"> Cambodia Insight </span>
+      </p>
     </div>
   </div>
 </footer>
