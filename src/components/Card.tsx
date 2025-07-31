@@ -9,27 +9,67 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { title, pubDatetime, modDatetime, description } = frontmatter;
+  const { title, pubDatetime, modDatetime, description, ogImage, category } =
+    frontmatter;
 
   const headerProps = {
-    style: { viewTransitionName: slugifyStr(title) },
+    style: { viewTransitionName: slugifyStr(title as string) },
     className: "text-lg font-medium decoration-dashed hover:underline",
   };
 
   return (
-    <li className="my-6">
-      <a
-        href={href}
-        className="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
-      >
-        {secHeading ? (
-          <h2 {...headerProps}>{title}</h2>
-        ) : (
-          <h3 {...headerProps}>{title}</h3>
-        )}
+    <li className="my-6 overflow-hidden  rounded-lg border  transition-shadow hover:shadow-lg">
+      <a href={href}>
+        <div className="flex w-full flex-col sm:flex-row">
+          {/* Article Image */}
+          <div className="w-full flex-shrink-0 sm:w-96">
+            <img
+              src={(ogImage || "/assets/placeholder.svg") as string}
+              alt={title || "card image"}
+              width={360}
+              height={260}
+              className="h-60 w-full object-cover object-center"
+            />
+          </div>
+
+          {/* Article Content */}
+          <div className="flex-1 p-6">
+            <div className="mb-3 flex items-center space-x-4">
+              <span className="text-sm text-gray-600">
+                <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} />
+              </span>
+            </div>
+
+            {secHeading ? (
+              <h2 {...headerProps}>{title}</h2>
+            ) : (
+              <h3 {...headerProps}>{title}</h3>
+            )}
+
+            <p className="mb-4 leading-relaxed text-gray-600">{description}</p>
+
+            <a
+              href={href}
+              className="inline-flex items-center text-sm font-medium text-black hover:underline"
+            >
+              READ MORE
+              <svg
+                className="ml-2 h-4 w-4"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth={2}
+                  d="M9 5l7 7-7 7"
+                />
+              </svg>
+            </a>
+          </div>
+        </div>
       </a>
-      <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} />
-      <p>{description}</p>
     </li>
   );
 }

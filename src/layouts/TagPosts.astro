@@ -17,6 +17,8 @@ export interface Props {
 }
 
 const { currentPage, totalPages, paginatedPosts, tag, tagName } = Astro.props;
+
+console.log(tag, "====", tagName);
 ---
 
 <Layout title={`Tag: ${tagName} | ${SITE.title}`}>
