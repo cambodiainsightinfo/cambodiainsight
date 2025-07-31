@@ -11,6 +11,11 @@ draft: true
 tags:
   - world-news
   - hot-news
+description: On behalf of Cambodian senators and the Cambodian people, I would
+  like to express my heartfelt gratitude to Ms. Shauna King, the founder of IMR,
+  and all IMR team members for their tireless efforts. Cambodia is fortunate to
+  be among the 90 countries where IMR provides free and effective medical
+  services.
 category:
   - hot-news
 ---
@@ -22,7 +27,7 @@ I have two suggestions for IMR: 
 
 *   First, consider focusing your next Cambodia mission on vulnerable communities in the Cambodian-Thai border provinces.
     
-*   Second, aim to reach your 1,000,000th patient in the province where the Preah Vihear Temple, a UNESCO World Heritage Site, is located. 
+*   Second, aim to reach your 1,000,000th patient in the province where the Preah Vihear Temple, a UNESCO World Heritage Site, is located.
     
 
 I hope these goals are not a "mission impossible" for the IMR team.
