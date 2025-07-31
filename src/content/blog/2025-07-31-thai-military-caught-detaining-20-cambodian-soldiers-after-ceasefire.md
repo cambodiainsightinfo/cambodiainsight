@@ -9,11 +9,13 @@ featured: true
 draft: false
 tags:
   - world-news
+  - hot-news
 description: Despite a ceasefire taking effect at midnight on July 29, the Thai
   military has admitted to capturing 20 Cambodian soldiers who approached in
   peace.
 category:
   - world-news
+  - hot-news
 ---
 # **Thai Military Caught Detaining 20 Cambodian Soldiers After Ceasefire**
 
