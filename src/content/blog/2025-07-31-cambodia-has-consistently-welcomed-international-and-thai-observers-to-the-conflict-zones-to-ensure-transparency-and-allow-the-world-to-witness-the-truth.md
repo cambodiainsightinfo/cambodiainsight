@@ -2,9 +2,9 @@
 author: Thun Vathana
 pubDatetime: 2025-07-31
 modDatetime: 2025-07-31
-title: Cambodia has consistently welcomed international and Thai observers to
-  the conflict zones to ensure transparency and allow the world to witness the
-  truth.
+title: Cambodia has consistently welcomed international monitoring mechanisms in
+  conflict zones, demonstrating its commitment to transparency and allowing the
+  world to witness the truth on the ground
 slug: cambodian-consistently-welcomed-international-thai-observers-to-conflict-zones
 featured: true
 draft: true
@@ -19,7 +19,7 @@ description: On behalf of Cambodian senators and the Cambodian people, I would
 category:
   - hot-news
 ---
-# Cambodia has consistently welcomed international and Thai observers to the conflict zones to ensure transparency and allow the world to witness the truth.
+# **Cambodia has consistently welcomed international monitoring mechanisms in conflict zones, demonstrating its commitment to transparency and allowing the world to witness the truth on the ground**
 
 On behalf of Cambodian senators and the Cambodian people, I would like to express my heartfelt gratitude to Ms. Shauna King, the founder of IMR, and all IMR team members for their tireless efforts. Cambodia is fortunate to be among the 90 countries where IMR provides free and effective medical services.
 
