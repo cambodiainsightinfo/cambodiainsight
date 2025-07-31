@@ -19,7 +19,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
 
   return (
     <li className="my-6 overflow-hidden  rounded-lg border  transition-shadow hover:shadow-lg">
-      <a href={href}>
+      <a href={href} aria-label={title}>
         <div className="flex w-full flex-col sm:flex-row">
           {/* Article Image */}
           <div className="w-full flex-shrink-0 sm:w-96">
@@ -48,11 +48,12 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
 
             <p className="mb-4 leading-relaxed text-gray-600">{description}</p>
 
-            <a
-              href={href}
-              className="inline-flex items-center text-sm font-medium text-black hover:underline"
-            >
-              READ MORE
+            <div className="flex items-center">
+              <a
+                href={href}
+                className="read-more inline-flex items-center text-sm font-medium text-black hover:underline"
+                aria-label={`Read more ${title}`}
+              ></a>
               <svg
                 className="ml-2 h-4 w-4"
                 fill="none"
@@ -66,7 +67,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
                   d="M9 5l7 7-7 7"
                 />
               </svg>
-            </a>
+            </div>
           </div>
         </div>
       </a>

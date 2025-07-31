@@ -122,6 +122,10 @@
   pre > code {
     white-space: pre;
   }
+
+  .read-more::after {
+    content: "READ MORE";
+  }
 }
 
 @layer components {
