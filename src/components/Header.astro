@@ -103,6 +103,11 @@ const { activeNav } = Astro.props;
   <div class="nav-container px-4 sm:items-center">
     <ul id="menu-items" class="hidden space-x-8 py-4 sm:flex">
       <li>
+        <a href="/tags/hot-news" class={activeNav === "tags" ? "active" : ""}>
+          Hot News
+        </a>
+      </li>
+      <li>
         <a href="/tags/world-news" class={activeNav === "tags" ? "active" : ""}>
           World News
         </a>
