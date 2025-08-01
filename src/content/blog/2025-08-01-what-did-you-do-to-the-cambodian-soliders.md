@@ -1,5 +1,5 @@
 ---
-author: Nearakdei
+author: Psyche of Cupid
 pubDatetime: 2025-08-01
 modDatetime: 2025-08-01
 title: What did you do to the Cambodian Soliders?
@@ -30,4 +30,11 @@ At least 16 Cambodian soldiers are still believed to be in Thai custody — thei
 
 These men are not just soldiers defending Cambodia’s sovereignty. They are sons. They are fathers. They are brothers. And now, they are symbols of a quiet suffering that Cambodia has been subjected to since the invasion and disproportionate force inflicted by the Thai military in the past week.
 
-The return of two of our defenders is not the end of this story; it is only the beginning of a plea for truth, justice, and the safe return of all who are still waiting in silence, illegally detained during this difficult and volatile time.
+The return of two of our defenders is not the end of this story; it is only the beginning of a plea for truth, justice, and the safe return of all who are still waiting in silence, illegally detained during this difficult and volatile time.  
+  
+
+![](/cambodia-soliders-1.jpg)
+
+![](/cambodia-soliders-2.jpg)
+
+![](/cambodia-soliders-3.jpg)
