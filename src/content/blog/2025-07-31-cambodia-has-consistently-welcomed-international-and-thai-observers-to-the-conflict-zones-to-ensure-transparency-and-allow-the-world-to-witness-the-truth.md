@@ -5,9 +5,10 @@ modDatetime: 2025-07-31
 title: Cambodia has consistently welcomed international monitoring mechanisms in
   conflict zones, demonstrating its commitment to transparency and allowing the
   world to witness the truth on the ground
+ogImage: /thun-vathana-image.jpg
 slug: cambodian-consistently-welcomed-international-thai-observers-to-conflict-zones
 featured: true
-draft: true
+draft: false
 tags:
   - world-news
   - hot-news
@@ -18,8 +19,11 @@ description: On behalf of Cambodian senators and the Cambodian people, I would
   services.
 category:
   - hot-news
+  - writer
 ---
 # **Cambodia has consistently welcomed international monitoring mechanisms in conflict zones, demonstrating its commitment to transparency and allowing the world to witness the truth on the ground**
+
+![](/thun-vathana-image.jpg)
 
 On behalf of Cambodian senators and the Cambodian people, I would like to express my heartfelt gratitude to Ms. Shauna King, the founder of IMR, and all IMR team members for their tireless efforts. Cambodia is fortunate to be among the 90 countries where IMR provides free and effective medical services.
 
