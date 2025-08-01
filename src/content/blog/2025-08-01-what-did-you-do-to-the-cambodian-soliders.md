@@ -3,7 +3,7 @@ author: Psyche of Cupid
 pubDatetime: 2025-08-01
 modDatetime: 2025-08-01
 title: What did the Thai Military do to the Cambodian soldiers??
-ogImage: /Two-cambodian-soldiers.jpg
+ogImage: /Thumbnail.jpg
 slug: what-did-the-thai-military-do-to-the-cambodian-soliders
 featured: true
 draft: false
