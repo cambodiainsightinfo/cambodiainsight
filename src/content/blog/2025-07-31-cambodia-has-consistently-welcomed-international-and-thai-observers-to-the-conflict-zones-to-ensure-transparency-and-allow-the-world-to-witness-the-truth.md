@@ -1,7 +1,7 @@
 ---
 author: Thun Vathana
-pubDatetime: 2025-07-31
-modDatetime: 2025-07-31
+pubDatetime: 2025-08-01
+modDatetime: 2025-08-01
 title: Cambodia has consistently welcomed international monitoring mechanisms in
   conflict zones, demonstrating its commitment to transparency and allowing the
   world to witness the truth on the ground
