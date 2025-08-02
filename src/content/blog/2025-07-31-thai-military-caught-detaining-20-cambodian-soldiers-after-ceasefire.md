@@ -3,7 +3,7 @@ author: Cambodia Insight
 pubDatetime: 2025-07-31
 modDatetime: 2025-07-31
 title: Thai Military Caught Detaining 20 Cambodian Soldiers After Ceasefire
-ogImage: /IMG_8329.JPG
+ogImage: /thai-captured-cambodia-soliders.jpg
 slug: thai-military-caught-detaining-20-cambodian-soliders-after-cease-fire
 featured: true
 draft: false
@@ -39,7 +39,7 @@ Thailand’s actions stand in direct contradiction to the peace efforts led by P
 
 Cambodia mourns not only the broken trust but also the cruel loss of peace so soon after it was promised.
 
-![](/IMG_8329.JPG)
+![](/thai-captured-cambodia-soliders.jpg)
 
 ![](/IMG_8298.JPG)
 
