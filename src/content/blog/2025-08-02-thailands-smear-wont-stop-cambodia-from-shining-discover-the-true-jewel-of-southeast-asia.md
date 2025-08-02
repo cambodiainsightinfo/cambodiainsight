@@ -17,9 +17,9 @@ category:
   - world-news
   - tourism
 ---
-# **Thailand's Smear Won't Stop Cambodia from Shining: Discover the True Jewel of Southeast Asia**
+# **Thailand's Smear Won't Stop Cambodia from Shining: Discover the True Jewel of Southeast Asia**![](/news/photo_2025-08-02%2023.24.23.jpeg)
 
-![](/news/photo_2025-08-02%2023.24.23.jpeg)
+![](/angkor-wat.jpeg)
 
 > Nobody in Cambodia tells me not to go to Thailand; however, almost everybody I spoke to in Thailand told me not to go to Cambodia.
 > 
