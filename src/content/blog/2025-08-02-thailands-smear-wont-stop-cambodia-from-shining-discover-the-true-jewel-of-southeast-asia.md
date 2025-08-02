@@ -41,16 +41,6 @@ We, as Cambodians, aren’t looking to compete through negativity. We believe in
 
 So, to those reading from afar: come see Cambodia for yourself. Don’t let false narratives stop you. What you’ll find is a country full of life, color, and resilience. A country that welcomes you with open arms and leaves you with stories worth sharing.
 
-![](/news/IMG_6821.JPG)
-
-![](/news/IMG_6824.JPG)
-
-![](/news/IMG_6825.JPG)
-
-![](/news/IMG_6829.JPG)
-
-![](/news/IMG_6816.JPG)
-
 ![](/news/IMG_6837.JPG)
 
 ![](/news/IMG_6838.JPG)
