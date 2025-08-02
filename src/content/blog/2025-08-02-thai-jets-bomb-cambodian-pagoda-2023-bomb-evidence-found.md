@@ -2,11 +2,11 @@
 author: PNN News
 pubDatetime: 2025-08-02
 modDatetime: 2025-08-02
-title: "Thai Jets Bomb Cambodian Pagoda: 2023 Bomb Evidence Found"
+title: "Thai Propaganda Falls Apart: 2023 Bombs Hit Cambodian Pagoda"
 ogImage: /news/527588567_1046387367709331_1363242126263002201_n.jpg
 slug: thai-bombing-cambodian-pagoda-2025
 featured: true
-draft: true
+draft: false
 tags:
   - world-news
   - hot-news
