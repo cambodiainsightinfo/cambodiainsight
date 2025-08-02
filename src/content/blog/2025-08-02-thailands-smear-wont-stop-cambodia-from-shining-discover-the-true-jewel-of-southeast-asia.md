@@ -17,11 +17,12 @@ category:
   - world-news
   - tourism
 ---
+
 # **Thailand's Smear Won't Stop Cambodia from Shining: Discover the True Jewel of Southeast Asia**
 
 ![](/news/photo_2025-08-02%2021.51.54.jpeg)
 
-> "Nobody in Cambodia tells me not to go to Thailand; however, almost everybody I spoke to in Thailand told me not to go to Cambodia.”
+> Nobody in Cambodia tells me not to go to Thailand; however, almost everybody I spoke to in Thailand told me not to go to Cambodia.
 
 As a proud Cambodian, I find it increasingly disheartening to see and hear how Thailand continues to push a misleading narrative about my homeland. Over the years, various Thai media outlets, influencers, and even some tourism-related entities have subtly and overtly portrayed Cambodia as unsafe, dirty, and unworthy of tourist attention. These negative portrayals are not only unfair but deeply disrespectful to a country that holds centuries of rich history, vibrant culture, and stunning natural beauty.
 
@@ -30,6 +31,8 @@ Cambodia is home to Angkor Wat, the largest religious monument in the world and 
 Our culture thrives beyond stone carvings and ancient walls. Cambodian dance, silk weaving, shadow puppetry, and even our unique cuisine are all living testaments to a civilization that continues to evolve with pride and resilience. We are proud and welcoming people with a deep-rooted cultural heritage that stretches back to the grandeur of the Khmer Empire—long before modern borders were established.
 
 Despite the attempts to portray Cambodia as chaotic or unclean, the reality on the ground is very different. Cities like Siem Reap, Battambang, and even the capital, Phnom Penh, are bustling with new developments, clean boulevards, artistic hubs, and eco-friendly projects. Rural Cambodia, far from being “unsafe,” offers serene landscapes, authentic village experiences, and some of the kindest hospitality you’ll find anywhere in the world.
+
+![](/news/phnompenh-city-view.jpg)
 
 Tourists who visit Cambodia are often surprised—sometimes even shocked—by how peaceful and safe they feel, especially compared to the negative images they were exposed to beforehand. They leave with unforgettable memories of smiling locals, peaceful rice paddies, quiet temple sunrises, and flavorful food shared with strangers who treat them like family.
 
@@ -42,8 +45,6 @@ The world deserves a balanced view of Southeast Asia. Thailand has its beauty, y
 We, as Cambodians, aren’t looking to compete through negativity. We believe in the strength of our own heritage, the warmth of our people, and the natural beauty that stretches from the forests of Mondulkiri to the beaches of Koh Rong. We believe that Cambodia can stand on its own—and shine.
 
 So, to those reading from afar: come see Cambodia for yourself. Don’t let false narratives stop you. What you’ll find is a country full of life, color, and resilience. A country that welcomes you with open arms and leaves you with stories worth sharing.
-
-![](/news/phnompenh-city-view.jpg)
 
 ![](/news/photo_2025-08-02%2021.52.10.jpeg)
 

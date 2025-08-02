@@ -1,6 +1,7 @@
 ---
-import { SITE } from "@config";
+import { LOGO_IMAGE, SITE } from "@config";
 import LinkButton from "./LinkButton.astro";
+import { Image } from "astro:assets";
 
 export interface Props {
   activeNav?: "news" | "tags" | "about" | "search";
@@ -13,7 +14,20 @@ const { activeNav } = Astro.props;
   <a id="skip-to-content" href="#main-content">Skip to content</a>
   <div class="nav-container border-b">
     <div class="top-nav-wrap">
-      <a href="/" class="logo whitespace-nowrap"> Cambodia Insight </a>
+      <a href="/" class="logo whitespace-nowrap">
+        {
+          LOGO_IMAGE.enable ? (
+            <Image
+              src="/assets/logo.png"
+              alt={SITE.title}
+              width={180}
+              height={70}
+            />
+          ) : (
+            SITE.title
+          )
+        }</a
+      >
       <nav id="nav-menu">
         <button
           class="hamburger-menu focus-outline"
@@ -134,10 +148,7 @@ const { activeNav } = Astro.props;
     @apply mx-auto flex max-w-7xl flex-col items-center justify-between sm:flex-row;
   }
   .top-nav-wrap {
-    @apply relative flex w-full items-start justify-between p-4 sm:items-center sm:py-8;
-  }
-  .logo {
-    @apply absolute py-1 text-xl font-semibold sm:static sm:text-2xl;
+    @apply relative flex w-full items-center justify-between p-4 sm:items-center sm:py-8;
   }
   .hamburger-menu {
     @apply self-end p-2 sm:hidden;

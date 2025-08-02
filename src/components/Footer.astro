@@ -1,4 +1,7 @@
 ---
+import { LOGO_IMAGE, SITE } from "@config";
+import { Image } from "astro:assets";
+
 const currentYear = new Date().getFullYear();
 
 export interface Props {
@@ -14,7 +17,20 @@ const { noMarginTop = false } = Astro.props;
   <div class="lg:grid-cols-3 mx-auto mb-12 grid max-w-7xl gap-8 sm:grid-cols-3">
     {/* Brand Section */}
     <div class="lg:col-span-1">
-      <h2 class="mb-4 text-4xl font-bold">Cambodia Insight</h2>
+      <a href="/" class="logo whitespace-nowrap">
+        {
+          LOGO_IMAGE.enable ? (
+            <Image
+              src="/assets/logo.png"
+              alt={SITE.title}
+              width={180}
+              height={70}
+            />
+          ) : (
+            SITE.title
+          )
+        }</a
+      >
       <p class="mb-8 text-sm leading-relaxed text-gray-400">
         Stay updated with the latest news, stories, and insights from around the
         globe.
