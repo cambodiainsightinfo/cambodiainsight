@@ -6,7 +6,7 @@ title: "Thai Jets Bomb Cambodian Pagoda: 2023 Bomb Evidence Found"
 ogImage: /news/527588567_1046387367709331_1363242126263002201_n.jpg
 slug: thai-bombing-cambodian-pagoda-2025
 featured: true
-draft: false
+draft: true
 tags:
   - world-news
   - hot-news
