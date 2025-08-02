@@ -4,7 +4,7 @@ pubDatetime: 2025-08-02
 modDatetime: 2025-08-02
 title: "Thailand's Smear Won't Stop Cambodia from Shining: Discover the True
   Jewel of Southeast Asia"
-ogImage: /news/photo_2025-08-02 21.51.54.jpeg
+ogImage: /news/discover-jewel-of-southeast-asia.jpg
 slug: discover-the-true-jewel-of-southeas-asia
 featured: true
 draft: false
@@ -17,10 +17,9 @@ category:
   - world-news
   - tourism
 ---
-
 # **Thailand's Smear Won't Stop Cambodia from Shining: Discover the True Jewel of Southeast Asia**
 
-![](/news/photo_2025-08-02%2021.51.54.jpeg)
+![](/news/discover-jewel-of-southeast-asia.jpg)
 
 > Nobody in Cambodia tells me not to go to Thailand; however, almost everybody I spoke to in Thailand told me not to go to Cambodia.
 
