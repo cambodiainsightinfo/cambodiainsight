@@ -11,9 +11,14 @@ tags:
   - world-news
   - hot-news
   - thai-aggression
-  - oddor-meanchey
+  - oddar-meanchey
 description: Bombs made in 2023 prove recent Thai airstrike on Cambodian
   pagoda—not a relic of past wars.
+category:
+  - world-news
+  - hot-news
+  - thai-aggression
+  - oddar-meanchey
 ---
 # CMAC បានរកឃើញភស្តុតាងដែលអាចបញ្ជាក់ច្បាស់ថា​ ទីតាំងអារាមនេះត្រូវបានពួកទ័ពអាកាសសៀម​ ប្រើប្រាស់យន្តហោះF-16 ទម្លាក់គ្រាប់បែកប្រភេទMK-2
 
@@ -25,7 +30,7 @@ description: Bombs made in 2023 prove recent Thai airstrike on Cambodian
 
 # CMAC expert team responded to an emergency call at Tamon Senchey pagoda in Taham Village, Kokmorn Commune, Banteay Ampil District, Oddor Meanchey Province. The team confirmed the sacred site had been bombed by the Thai Air Force using F-16 fighter jets.
 
-On August 2, 2025, Cambodia’s CMAC expert team responded to an emergency call at Tamon Senchey pagoda in Taham Village, Kokmorn Commune, Banteay Ampil District, Oddor Meanchey Province. The team confirmed the sacred site had been bombed by the Thai Air Force using F-16 fighter jets.
+On August 2, 2025, Cambodia’s CMAC expert team responded to an emergency call at Tamon Senchey pagoda in Taham Village, Kokmorn Commune, Banteay Ampil District, Oddar Meanchey Province. The team confirmed the sacred site had been bombed by the Thai Air Force using F-16 fighter jets.
 
 Investigators found remains of two MK-82 bombs equipped with GBU-12 Paveway II laser-guided systems. Critically, the serial numbers—22002788 and 22002794—show the bombs were manufactured in January 2023, eliminating any possibility that the strike was a remnant from the 1970–73 conflict period.
 
@@ -57,6 +62,4 @@ Let the truth be known—this was not history repeating itself. This was an atta
 
 ![](/news/525941055_1046387251042676_5230072804638490480_n.jpg)
 
-  
-  
 Source: [PNN News](https://www.facebook.com/share/16mrJxLWHA/)
