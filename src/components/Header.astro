@@ -56,7 +56,6 @@ const { activeNav } = Astro.props;
               Tags
             </a>
           </li>
-
           <li>
             <LinkButton
               href="/search/"
@@ -115,6 +114,11 @@ const { activeNav } = Astro.props;
       <li>
         <a href="/tags/writer" class={activeNav === "tags" ? "active" : ""}>
           Writer
+        </a>
+      </li>
+      <li>
+        <a href="/tags/tourism" class={activeNav === "tags" ? "active" : ""}>
+          Tourism
         </a>
       </li>
     </ul>
