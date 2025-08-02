@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Cambodia Insight",
   desc: "Discover Cambodia through reliable news and insightful blogs. Cambodia Insight brings you updates and perspectives on the nation’s evolving landscape.",
   title: "Cambodia Insight",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "cambodia-insight-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
