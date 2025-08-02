@@ -4,7 +4,7 @@ pubDatetime: 2025-08-02
 modDatetime: 2025-08-02
 title: "Thailand's Smear Won't Stop Cambodia from Shining: Discover the True
   Jewel of Southeast Asia"
-ogImage: /angkor-wat.jpeg
+ogImage: /news/discover-jewel-of-southeast-asia.jpg
 slug: discover-the-true-jewel-of-southeas-asia
 featured: true
 draft: false
@@ -17,13 +17,12 @@ category:
   - world-news
   - tourism
 ---
-
 # **Thailand's Smear Won't Stop Cambodia from Shining: Discover the True Jewel of Southeast Asia**
 
 ![](/angkor-wat.jpeg)
 
 > Nobody in Cambodia tells me not to go to Thailand; however, almost everybody I spoke to in Thailand told me not to go to Cambodia.
->
+> 
 > Said by “TeddyGreyOnStuff”
 
 As a proud Cambodian, I find it increasingly disheartening to see and hear how Thailand continues to push a misleading narrative about my homeland. Over the years, various Thai media outlets, influencers, and even some tourism-related entities have subtly and overtly portrayed Cambodia as unsafe, dirty, and unworthy of tourist attention. These negative portrayals are not only unfair but deeply disrespectful to a country that holds centuries of rich history, vibrant culture, and stunning natural beauty.
