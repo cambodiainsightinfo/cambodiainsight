@@ -23,8 +23,9 @@ const { noMarginTop = false } = Astro.props;
             <Image
               src="/assets/logo.png"
               alt={SITE.title}
-              width={180}
-              height={70}
+              width={100}
+              height={100}
+              class="h-[80px] w-[170px] sm:h-[100px] sm:w-[240px]"
             />
           ) : (
             SITE.title
@@ -35,49 +36,6 @@ const { noMarginTop = false } = Astro.props;
         Stay updated with the latest news, stories, and insights from around the
         globe.
       </p>
-
-      <!-- {/* Social Media as */}
-      <div class="grid grid-cols-2 gap-3">
-        <a
-          href="#"
-          class="flex items-center justify-between rounded border border-gray-800 bg-gray-900 px-4 py-3 transition-colors hover:bg-gray-800"
-        >
-          <div class="flex items-center gap-3">
-            FB
-            <span class="text-sm">Facebook</span>
-          </div>
-        </a>
-
-        <a
-          href="#"
-          class="flex items-center justify-between rounded border border-gray-800 bg-gray-900 px-4 py-3 transition-colors hover:bg-gray-800"
-        >
-          <div class="flex items-center gap-3">
-            X
-            <span class="text-sm">Twitter</span>
-          </div>
-        </a>
-
-        <a
-          href="#"
-          class="flex items-center justify-between rounded border border-gray-800 bg-gray-900 px-4 py-3 transition-colors hover:bg-gray-800"
-        >
-          <div class="flex items-center gap-3">
-            Youtube
-            <span class="text-sm">YouTube</span>
-          </div>
-        </a>
-
-        <a
-          href="#"
-          class="flex items-center justify-between rounded border border-gray-800 bg-gray-900 px-4 py-3 transition-colors hover:bg-gray-800"
-        >
-          <div class="flex items-center gap-3">
-            IG
-            <span class="text-sm">Instagram</span>
-          </div>
-        </a>
-      </div> -->
     </div>
 
     {/* Pages Section */}
