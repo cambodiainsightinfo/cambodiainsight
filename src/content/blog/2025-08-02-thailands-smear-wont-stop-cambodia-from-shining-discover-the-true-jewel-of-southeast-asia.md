@@ -4,7 +4,7 @@ pubDatetime: 2025-08-02
 modDatetime: 2025-08-02
 title: "Thailand's Smear Won't Stop Cambodia from Shining: Discover the True
   Jewel of Southeast Asia"
-ogImage: /news/IMG_6838.JPG
+ogImage: /news/photo_2025-08-02 21.51.54.jpeg
 slug: discover-the-true-jewel-of-southeas-asia
 featured: true
 draft: false
@@ -17,8 +17,9 @@ category:
   - world-news
   - tourism
 ---
-
 # **Thailand's Smear Won't Stop Cambodia from Shining: Discover the True Jewel of Southeast Asia**
+
+![](/news/photo_2025-08-02%2021.51.54.jpeg)
 
 > "Nobody in Cambodia tells me not to go to Thailand; however, almost everybody I spoke to in Thailand told me not to go to Cambodia.”
 
@@ -41,6 +42,10 @@ The world deserves a balanced view of Southeast Asia. Thailand has its beauty, y
 We, as Cambodians, aren’t looking to compete through negativity. We believe in the strength of our own heritage, the warmth of our people, and the natural beauty that stretches from the forests of Mondulkiri to the beaches of Koh Rong. We believe that Cambodia can stand on its own—and shine.
 
 So, to those reading from afar: come see Cambodia for yourself. Don’t let false narratives stop you. What you’ll find is a country full of life, color, and resilience. A country that welcomes you with open arms and leaves you with stories worth sharing.
+
+![](/news/phnompenh-city-view.jpg)
+
+![](/news/photo_2025-08-02%2021.52.10.jpeg)
 
 ![](/news/IMG_6837.JPG)
 
