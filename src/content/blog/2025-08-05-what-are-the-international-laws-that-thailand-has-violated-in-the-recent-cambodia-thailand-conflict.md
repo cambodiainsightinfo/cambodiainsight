@@ -4,7 +4,7 @@ pubDatetime: 2025-08-05
 modDatetime: 2025-08-05
 title: What are the International Laws that Thailand has violated in the recent
   Cambodia-Thailand Conflict?
-ogImage: /news/What-are-the-International-Laws.jpg
+ogImage: /news/what-are-the-International-Laws.jpg
 slug: what-are-the-international-laws-that-thailand-has-violated-in-the-recent-cambodia-thailand-conflict
 featured: true
 draft: false
@@ -122,4 +122,4 @@ Today, Cambodia suffers—but this is a warning to the world. If left unchecked 
 
 Thailand’s conduct during the recent conflict not only violated multiple provisions of international law but also inflicted deep suffering upon the Cambodian people. These actions must not be ignored. The international community, including **ASEAN** and the **United Nations**, is being called upon to ensure that accountability is pursued and justice delivered. 
 
-Only through truth, justice, and respect for international laws can peace in the world be truly restored
+Only through truth, justice, and respect for international laws can peace in the world be truly restored.
