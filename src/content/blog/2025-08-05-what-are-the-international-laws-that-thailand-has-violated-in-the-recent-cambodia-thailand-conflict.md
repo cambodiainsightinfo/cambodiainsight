@@ -1,7 +1,7 @@
 ---
 author: Nameless Nomad
-pubDatetime: 2025-08-06
-modDatetime: 2025-08-06
+pubDatetime: 2025-08-05
+modDatetime: 2025-08-05
 title: What are the International Laws that Thailand has violated in the recent
   Cambodia-Thailand Conflict?
 ogImage: /news/What-are-the-International-Laws.jpg
@@ -22,9 +22,9 @@ category:
   - world-news
   - hot-news
 ---
-## **What are the International Laws that Thailand has violated in the recent Cambodia-Thailand Conflict?**
+# **What are the International Laws that Thailand has violated in the recent Cambodia-Thailand Conflict?**
 
-![](/image.jpeg)
+# ![](/image.jpeg)
 
 The recent military conflict between Cambodia and Thailand marked one of the most alarming episodes of cross-border aggression in recent Southeast Asian history. What began as a border skirmish quickly escalated into a series of serious breaches of international humanitarian law by Thai military forces. These actions have left a deep wound on Cambodian soil — physically, emotionally, and spiritually — and demand scrutiny under global legal standards.  
 
