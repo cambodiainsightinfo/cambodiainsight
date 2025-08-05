@@ -4,6 +4,7 @@ pubDatetime: 2025-08-05
 modDatetime: 2025-08-05
 title: What are the International Laws that Thailand has violated in the recent
   Cambodia-Thailand Conflict?
+ogImage: /image.jpeg
 slug: /what-are-the-international-laws-that-thailand-has-violated-in-the-recent-cambodia-thailand-conflict
 featured: true
 draft: true
@@ -23,11 +24,13 @@ category:
 ---
 ## **What are the International Laws that Thailand has violated in the recent Cambodia-Thailand Conflict?**
 
+![](/image.jpeg)
+
 The recent military conflict between Cambodia and Thailand marked one of the most alarming episodes of cross-border aggression in recent Southeast Asian history. What began as a border skirmish quickly escalated into a series of serious breaches of international humanitarian law by Thai military forces. These actions have left a deep wound on Cambodian soil — both physically, emotionally, and spiritually — and demand scrutiny under global legal standards. 
 
 The following is a detailed account of the key violations committed by Thailand during this conflict and the severe consequences that followed:
 
-1.  **Deployment of Cluster Munitions (Cluster Bombs)** 
+1.  **Deployment of Cluster Munitions (Cluster Bombs)**
     
 
 > **Incident**: Thai artillery units launched cluster munitions into Cambodian territory, striking rural areas in Preah Vihear province. 
@@ -36,7 +39,7 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia**: These weapons inflicted significant civilian casualties and contaminated farmland with unexploded submunitions, threatening farmers, children, and entire communities for years to come. The long-term danger undermines both safety and economic recovery in affected areas.
 
-2.  **Attack on Preah Vihear Temple** 
+2.  **Attack on Preah Vihear Temple**
     
 
 > **Incident**: Preah Vihear Temple — a UNESCO World Heritage Site and a symbol of Cambodia’s cultural legacy — was struck by Thai shells during the conflict. 
@@ -45,7 +48,7 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia**: The damage inflicted on the temple was not only physical but also spiritual and national. For Cambodians, the temple represents centuries of history and identity. Its destruction was widely perceived as an assault on Cambodian heritage and pride.
 
-3.   **Strikes on Civilian and Religious Areas** 
+3.   **Strikes on Civilian and Religious Areas**
     
 
 > **Incident**: Thai forces reportedly bombed residential villages and Buddhist pagodas in the districts of Anlong Veng and Choam Khsant. 
@@ -54,7 +57,7 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia**: Entire families were displaced. Sacred spaces were destroyed. The trauma inflicted on civilians — particularly those who sought shelter in religious compounds — continues to haunt survivors and erode community stability.
 
-4.  **Mutilation of Cambodian Soldiers** 
+4.  **Mutilation of Cambodian Soldiers**
     
 
 > **Incident:** Cambodian military units later recovered the bodies of fallen soldiers that had been deliberately mutilated. 
@@ -63,7 +66,7 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia:** These acts shocked the nation. The families of the deceased were denied dignity in mourning, and the Cambodian public was left outraged by the apparent disregard for human life and decency.
 
-5.  **Alleged Use of Chemical Weapons** 
+5.  **Alleged Use of Chemical Weapons**
     
 
 > **Incident:** There were reports that Thai forces deployed chemical weapons laced with unknown chemical agents, causing severe injuries among Cambodian troops.
@@ -72,7 +75,7 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia:** Injured soldiers suffered long-term health consequences, including respiratory damage and skin burns. The use of chemical agents escalated the seriousness of the conflict and raised alarm across the region.
 
-6.  **Perfidious Capture of Cambodian Soldiers** 
+6.  **Perfidious Capture of Cambodian Soldiers**
     
 
 > **Incident:** Thai forces captured **twenty Cambodian soldiers** through friendly deception in the early morning on **29th July 2025,** after the ceasefire agreement had already been issued and effective on **28th July 2025, 00:00.**
@@ -81,7 +84,7 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia:** This act destroyed trust in the negotiation process and fueled suspicion of any future ceasefire discussions. It was a strategic betrayal that deeply offended Cambodian military officials and the public alike.
 
-7.  **Inhumane Detention of Captured Soldiers** 
+7.  **Inhumane Detention of Captured Soldiers**
     
 
 > **Incident:** Following their capture, the **20 Cambodian soldiers** were held without contact, proper medical care, or third-party monitoring. 
@@ -90,7 +93,7 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia:** Two soldiers were recently released — one **physically injured** and another **mentally unwell**. The condition of the remaining 1**8 remains** unknown, causing anguish for their families and fueling national concern. The lack of transparency and humanitarian access stands as a grave violation of both law and human dignity.
 
-8.  **Sovereignty and Territorial Integrity Violation** 
+8.  **Sovereignty and Territorial Integrity Violation**
     
 
 > **Incident:** At 11 AM on August 4, 2025, the Thai armed forces, accompanied by heavy machinery such as excavators, entered the An **Ses area** within Cambodian sovereign territory and even laid barbed wire, despite strong objections from the Cambodian armed forces. 
