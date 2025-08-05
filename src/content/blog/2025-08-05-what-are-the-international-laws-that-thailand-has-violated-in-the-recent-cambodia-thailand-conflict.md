@@ -4,7 +4,7 @@ pubDatetime: 2025-08-05
 modDatetime: 2025-08-05
 title: What are the International Laws that Thailand has violated in the recent
   Cambodia-Thailand Conflict?
-ogImage: /image.jpeg
+ogImage: /news/What-are-the-International-Laws.jpg/image.jpeg
 slug: what-are-the-international-laws-that-thailand-has-violated-in-the-recent-cambodia-thailand-conflict
 featured: true
 draft: false
