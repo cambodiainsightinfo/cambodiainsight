@@ -1,13 +1,13 @@
 ---
 author: Nameless Nomad
-pubDatetime: 2025-08-05
-modDatetime: 2025-08-05
+pubDatetime: 2025-08-06
+modDatetime: 2025-08-06
 title: What are the International Laws that Thailand has violated in the recent
   Cambodia-Thailand Conflict?
 ogImage: /news/What-are-the-International-Laws.jpg
 slug: what-are-the-international-laws-that-thailand-has-violated-in-the-recent-cambodia-thailand-conflict
 featured: true
-draft: true
+draft: false
 tags:
   - hot-news
   - world-news
@@ -26,7 +26,7 @@ category:
 
 ![](/image.jpeg)
 
-The recent military conflict between Cambodia and Thailand marked one of the most alarming episodes of cross-border aggression in recent Southeast Asian history. What began as a border skirmish quickly escalated into a series of serious breaches of international humanitarian law by Thai military forces. These actions have left a deep wound on Cambodian soil — both physically, emotionally, and spiritually — and demand scrutiny under global legal standards. 
+The recent military conflict between Cambodia and Thailand marked one of the most alarming episodes of cross-border aggression in recent Southeast Asian history. What began as a border skirmish quickly escalated into a series of serious breaches of international humanitarian law by Thai military forces. These actions have left a deep wound on Cambodian soil — physically, emotionally, and spiritually — and demand scrutiny under global legal standards.  
 
 The following is a detailed account of the key violations committed by Thailand during this conflict and the severe consequences that followed:
 
@@ -114,8 +114,12 @@ The following is a detailed account of the key violations committed by Thailand 
 
 ![](/news/Screenshot%202025-08-05%20at%202.27.22%20in%20the%20afternoon%20(1).png)
 
-### **Conclusion: Justice Demanded**
+### **Conclusion: Caution Arise, Justice Demanded**
 
-Thailand’s conduct during the recent conflict not only violated multiple provisions of international law but also inflicted deep suffering upon the Cambodian people. These actions must not be ignored. The international community, including ASEAN and the United Nations, is being called upon to ensure that accountability is pursued and justice delivered. 
+Thailand’s blatant violations of international law in its aggression against Cambodia expose more than just a regional conflict—they reveal the true nature of a state acting as a villain on the global stage. By targeting civilians, cultural sites, and defying international conventions, Thailand has proven itself willing to break the rules that safeguard peace. 
 
-Only through truth, justice, and respect for international laws can peace in the world be truly restored.
+Today, Cambodia suffers—but this is a warning to the world. If left unchecked and overlooked, Thailand’s lawlessness could extend beyond its borders, threatening other neighboring nations, ASEAN, and potentially becoming a danger to international peace. This is not just an isolated act; it is the behavior of a nation testing the world’s tolerance for violence, rebellion, and impunity.
+
+Thailand’s conduct during the recent conflict not only violated multiple provisions of international law but also inflicted deep suffering upon the Cambodian people. These actions must not be ignored. The international community, including **ASEAN** and the **United Nations**, is being called upon to ensure that accountability is pursued and justice delivered. 
+
+Only through truth, justice, and respect for international laws can peace in the world be truly restored
