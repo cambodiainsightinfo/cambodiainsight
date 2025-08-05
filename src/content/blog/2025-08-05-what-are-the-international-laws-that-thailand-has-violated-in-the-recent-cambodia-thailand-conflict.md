@@ -7,7 +7,7 @@ title: What are the International Laws that Thailand has violated in the recent
 ogImage: /image.jpeg
 slug: /what-are-the-international-laws-that-thailand-has-violated-in-the-recent-cambodia-thailand-conflict
 featured: true
-draft: true
+draft: false
 tags:
   - hot-news
   - world-news
