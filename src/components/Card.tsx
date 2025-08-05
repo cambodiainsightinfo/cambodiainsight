@@ -20,15 +20,15 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
   return (
     <li className="my-6 overflow-hidden  rounded-lg border  transition-shadow hover:shadow-lg">
       <a href={href} aria-label={title}>
-        <div className="flex w-full flex-col sm:flex-row">
+        <div className="md:flex-row flex w-full flex-col sm:flex-col">
           {/* Article Image */}
-          <div className="w-full flex-shrink-0 sm:w-96">
+          <div className=" md:w-[400px] w-full flex-shrink-0 sm:w-full">
             <img
               src={(ogImage || "/assets/placeholder.svg") as string}
               alt={title || "card image"}
               width={360}
               height={260}
-              className="h-60 w-full object-cover object-center"
+              className=" h-60 min-h-[320px] w-full object-cover"
             />
           </div>
 
