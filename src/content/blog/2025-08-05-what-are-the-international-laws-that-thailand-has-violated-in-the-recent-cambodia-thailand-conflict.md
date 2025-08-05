@@ -4,7 +4,7 @@ pubDatetime: 2025-08-05
 modDatetime: 2025-08-05
 title: What are the International Laws that Thailand has violated in the recent
   Cambodia-Thailand Conflict?
-ogImage: /news/What-are-the-International-Laws.jpg/image.jpeg
+ogImage: /news/What-are-the-International-Laws.jpg
 slug: what-are-the-international-laws-that-thailand-has-violated-in-the-recent-cambodia-thailand-conflict
 featured: true
 draft: false
@@ -39,6 +39,8 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia**: These weapons inflicted significant civilian casualties and contaminated farmland with unexploded submunitions, threatening farmers, children, and entire communities for years to come. The long-term danger undermines both safety and economic recovery in affected areas.
 
+![](/news/image_2025-08-05_14-16-19.png)
+
 2.  **Attack on Preah Vihear Temple**
     
 
@@ -48,7 +50,9 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia**: The damage inflicted on the temple was not only physical but also spiritual and national. For Cambodians, the temple represents centuries of history and identity. Its destruction was widely perceived as an assault on Cambodian heritage and pride.
 
-3.   **Strikes on Civilian and Religious Areas**
+![](/news/image_2025-08-05_14-20-46.png)
+
+3.   **Strikes on Civilian and Religious Areas** 
     
 
 > **Incident**: Thai forces reportedly bombed residential villages and Buddhist pagodas in the districts of Anlong Veng and Choam Khsant. 
@@ -56,6 +60,8 @@ The following is a detailed account of the key violations committed by Thailand 
 > **Legal Context**: Attacks that fail to distinguish between military targets and civilians are violations of Article 51 of Additional Protocol I to the Geneva Conventions.  
 
 > **Impact on Cambodia**: Entire families were displaced. Sacred spaces were destroyed. The trauma inflicted on civilians — particularly those who sought shelter in religious compounds — continues to haunt survivors and erode community stability.
+
+![](/news/image_2025-08-05_14-21-55.png)
 
 4.  **Mutilation of Cambodian Soldiers**
     
@@ -78,22 +84,26 @@ The following is a detailed account of the key violations committed by Thailand 
 6.  **Perfidious Capture of Cambodian Soldiers**
     
 
-> **Incident:** Thai forces captured **twenty Cambodian soldiers** through friendly deception in the early morning on **29th July 2025,** after the ceasefire agreement had already been issued and effective on **28th July 2025, 00:00.**
+> **Incident:** Thai forces captured **twenty Cambodian soldiers** through trickery and deception in the early morning on **29th July 2025,** after the ceasefire agreement had already been issued and effective on **28th July 2025, 00:00.**
 
 > **Legal Context**: Feigning peaceful intentions to carry out attacks or captures is considered perfidy, a prohibited tactic under Article 37 of Additional Protocol I to the Geneva Conventions. 
 
 > **Impact on Cambodia:** This act destroyed trust in the negotiation process and fueled suspicion of any future ceasefire discussions. It was a strategic betrayal that deeply offended Cambodian military officials and the public alike.
 
-7.  **Inhumane Detention of Captured Soldiers**
+![](/news/image_2025-08-05_14-24-36%20(1).png)
+
+7.  **Inhumane and Illegal Detention of Cambodian Security Forces**
     
 
 > **Incident:** Following their capture, the **20 Cambodian soldiers** were held without contact, proper medical care, or third-party monitoring. 
 
 > **Legal Context:** Under the Third Geneva Convention, **prisoners of war** are entitled to humane treatment, medical attention, and access to neutral organizations such as the International Committee of the Red Cross (**ICRC**). 
 
-> **Impact on Cambodia:** Two soldiers were recently released — one **physically injured** and another **mentally unwell**. The condition of the remaining 1**8 remains** unknown, causing anguish for their families and fueling national concern. The lack of transparency and humanitarian access stands as a grave violation of both law and human dignity.
+> **Impact on Cambodia:** Two soldiers were recently released — one **physically injured** and another **mentally and psychologically abused**. The condition of the remaining 1**8 remains** unknown, causing anguish for their families and fueling national concern. The lack of transparency and humanitarian access stands as a grave violation of both law and human dignity.
 
-8.  **Sovereignty and Territorial Integrity Violation**
+![](/news/image_2025-08-05_14-25-31%20(1).png)
+
+8.  **Violations of Cambodian and Territorial Integrity Violation**
     
 
 > **Incident:** At 11 AM on August 4, 2025, the Thai armed forces, accompanied by heavy machinery such as excavators, entered the An **Ses area** within Cambodian sovereign territory and even laid barbed wire, despite strong objections from the Cambodian armed forces. 
@@ -101,6 +111,8 @@ The following is a detailed account of the key violations committed by Thailand 
 > **Legal Context:** Laying barbed wire in another nation's land after a ceasefire violates international law concerning territorial sovereignty, ceasefire compliance, and peaceful dispute resolution. It can also be interpreted as an act of aggression or provocation under international legal standards. 
 
 > **Impact on Cambodia:** It undermines Cambodia’s national sovereignty, endangers civilian lives, destabilizes the peace process, and causes long-term social, political, and security consequences.
+
+![](/news/Screenshot%202025-08-05%20at%202.27.22%20in%20the%20afternoon%20(1).png)
 
 ### **Conclusion: Justice Demanded**
 
