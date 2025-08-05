@@ -52,7 +52,7 @@ The following is a detailed account of the key violations committed by Thailand 
 
 ![](/news/image_2025-08-05_14-20-46.png)
 
-3.   **Strikes on Civilian and Religious Areas** 
+3.   **Strikes on Civilian and Religious Areas**
     
 
 > **Incident**: Thai forces reportedly bombed residential villages and Buddhist pagodas in the districts of Anlong Veng and Choam Khsant. 
@@ -61,7 +61,7 @@ The following is a detailed account of the key violations committed by Thailand 
 
 > **Impact on Cambodia**: Entire families were displaced. Sacred spaces were destroyed. The trauma inflicted on civilians — particularly those who sought shelter in religious compounds — continues to haunt survivors and erode community stability.
 
-![](/news/image_2025-08-05_14-21-55.png)
+![](/news/image_2025-08-05_14-21-55%20(1).png)
 
 4.  **Mutilation of Cambodian Soldiers**
     
