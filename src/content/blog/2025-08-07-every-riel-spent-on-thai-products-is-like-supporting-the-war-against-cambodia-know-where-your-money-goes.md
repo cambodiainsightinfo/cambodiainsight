@@ -19,8 +19,6 @@ category:
   - writer
   - world-news
 ---
-## **Every Riel Spent on Thai Products is Like Supporting the War Against Cambodia. KNOW WHERE YOUR MONEY GOES!**
-
 ![](/news/every-riel-spend-on-thai-product.jpg)
 
 As a fellow **Cambodian**, it is heartbreaking to witness the ongoing conflict between our country and Thailand. While our soldiers defend our land, and innocent civilians suffer from bombings and destruction, something is happening quietly that we all need to think about: our daily spending.
