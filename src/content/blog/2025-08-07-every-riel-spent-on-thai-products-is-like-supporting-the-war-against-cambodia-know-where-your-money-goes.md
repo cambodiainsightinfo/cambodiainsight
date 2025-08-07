@@ -1,7 +1,7 @@
 ---
 author: Nameless Nomad
-pubDatetime: 2025-08-07
-modDatetime: 2025-08-07
+pubDatetime: 2025-08-06
+modDatetime: 2025-08-06
 title: Every Riel Spent on Thai Products is Like Supporting the War Against
   Cambodia. KNOW WHERE YOUR MONEY GOES!
 ogImage: /news/every-riel-spend-on-thai-product.jpg
