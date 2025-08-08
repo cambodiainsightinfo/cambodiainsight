@@ -3,7 +3,7 @@ author: Nameless Nomad
 pubDatetime: 2025-08-08
 modDatetime: 2025-08-08
 title: One Heart, One Nation.
-slug: /one-heart-one-nation
+slug: one-heart-one-nation
 featured: true
 draft: false
 tags:
