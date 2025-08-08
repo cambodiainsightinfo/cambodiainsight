@@ -11,6 +11,7 @@ draft: false
 tags:
   - writer
   - world-news
+  - blog
 description: "As a fellow Cambodian, it is heartbreaking to witness the ongoing
   conflict between our country and Thailand. While our soldiers defend our land,
   and innocent civilians suffer from bombings and destruction, something is
@@ -18,7 +19,9 @@ description: "As a fellow Cambodian, it is heartbreaking to witness the ongoing
 category:
   - writer
   - world-news
+  - blog
 ---
+
 ![](/news/every-riel-spend-on-thai-product.jpg)
 
 As a fellow **Cambodian**, it is heartbreaking to witness the ongoing conflict between our country and Thailand. While our soldiers defend our land, and innocent civilians suffer from bombings and destruction, something is happening quietly that we all need to think about: our daily spending.
